@@ -14,3 +14,6 @@ http://www.c-jump.com/CIS24/Slides/Booting/index.html
 
 4- The FAT File System
 http://www.c-jump.com/CIS24/Slides/FAT/index.html
+
+5-File Storage Hardware and Disk Organization <cr>
+https://www.ntfs.com/hard-disk-basics.htm
